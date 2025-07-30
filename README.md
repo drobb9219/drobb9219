@@ -1,65 +1,58 @@
-# 👋 Hello, I'm Deonshae Robbins
+👋 Hello, I'm Deonshae Robbins
+🚀 IT Risk & Cybersecurity Professional | GRC & Compliance Enthusiast
+I’m a certified IT professional transitioning from the oil & gas industry into cybersecurity and IT risk management. With a strong foundation in governance, compliance frameworks, and technical security practices, I specialize in aligning business processes with security and regulatory requirements.
 
-## 🚀 IT, Cybersecurity & Cloud Security Professional | 🎥 Aspiring Tech Content Creator
+My goal is to leverage hands-on experience in risk mitigation, internal controls, and security operations to help organizations build resilient, audit-ready systems.
 
-I'm a certified IT professional transitioning from the oil & gas industry into the tech space. With hands-on skills in cybersecurity fundamentals, cloud infrastructure, and technical support, I’m passionate about protecting systems, supporting end-users, and simplifying complex tech topics through engaging content.
+🧠 Core Technical Skills
+Governance, Risk & Compliance (GRC): Policy development, internal control assessments, SOC 2, ISO 27001 fundamentals
 
----
+Cybersecurity Fundamentals: Threat detection, risk assessment, access management
 
-## 🧠 Core Technical Skills
+Cloud Platforms: AWS (in progress), Oracle Cloud Infrastructure (OCI), Azure basics
 
-- **Cybersecurity Fundamentals** – Threat detection, risk mitigation, basic network security
-- **Cloud Platforms** – AWS, Oracle Cloud Infrastructure (OCI), basic Azure
-- **Operating Systems** – Windows, Linux (Ubuntu, Kali), macOS
-- **Networking** – TCP/IP, DNS, VPNs, subnetting, firewall rules
-- **Automation Tools** – n8n (low-code/no-code), ChatGPT prompt engineering
-- **Scripting & Web** – Python (basics), HTML, CSS, JavaScript
-- **IT Support** – Help desk, remote desktop, ticketing systems (ServiceNow, Zendesk)
+Operating Systems: Linux (Ubuntu), Windows Server administration
 
----
+Networking & Security: TCP/IP, subnetting, NAT, firewall rules
 
-## 📜 Certifications
+SIEM Tools: Microsoft Sentinel (log analysis, KQL queries)
 
-- ✅ **CompTIA Tech+ (FC0-U71)** – Certified
-- ✅ **AWS Certified Cloud Practitioner** – In Progress
-- ✅ **Oracle OCI Foundations Associate** – In Progress
-- 📚 **CompTIA Security+** – Studying
-- 📚 **TEEX Cybersecurity Fundamentals** – Ongoing
-- 🎓 **DataCamp: Introduction to ChatGPT & Prompt Engineering** – Completed
-- 📩 **Intuit Mailchimp: Email Marketing Professional Certificate** – Completed
+IT Support Foundations: Ticketing systems, troubleshooting, end-user support
 
----
+📜 Certifications
+✅ CompTIA Tech+ – Certified
 
-## 💼 Projects & Labs
+📚 CompTIA Security+ – Studying
 
-- **AI-Powered Automation with n8n**  
-  Automated content workflows using ChatGPT + n8n to schedule, format, and post across platforms.
+📚 AWS Certified Cloud Practitioner – In Progress
 
-- **Secure Linux Server Setup (Lab)**  
-  Deployed and hardened a Linux Ubuntu VM using firewalls, SSH, and basic system monitoring tools.
+📚 Oracle OCI Foundations Associate – In Progress
 
-- **Website Portfolio (In Progress)**  
-  Personal website showcasing resume, certifications, and GitHub repositories.
+📚 TEEX Cybersecurity Risk Management – Ongoing
 
----
+💼 Featured Projects & Labs
+Cybersecurity Cohort Projects (Weeks 1–8)
+Hands-on work in GRC, risk management, SIEM operations, phishing awareness, Linux hardening, and network security.
+View Repository →
 
-## 🎥 Content Creation (Side Passion)
+IT Fundamentals & Tech+ Capstone Projects
+Virtual PC builds, OSI model simulation, network troubleshooting, and IT support foundations.
+View Repository →
 
-While building my career in IT and cloud security, I also create content around:
-- Entry-level tech study tips
-- Automation tools (like n8n, ChatGPT, Ollama)
-- Personal journey breaking into cybersecurity
-- Motivational content for career changers
+🎯 Career Focus
+IT Risk & Compliance Analyst
 
----
+GRC Specialist
 
-## 📫 Let's Connect
+SOC Analyst (Entry Level)
 
-- **LinkedIn**: [linkedin.com/in/iamdeonshaerobbins](https://www.linkedin.com/in/iamdeonshaerobbins)
-- **Email**: robbins.deonshae@outlook.com
-- **GitHub**: [github.com/drobb9219](https://github.com/drobb9219)
+Cybersecurity Governance Coordinator
 
----
+📫 Let’s Connect
+LinkedIn: linkedin.com/in/iamdeonshaerobbins
 
-_Thanks for visiting! I'm open to internships, apprenticeships, entry-level roles, and freelance opportunities in IT support, cloud, cybersecurity, and automation._
+Email: robbins.deonshae@outlook.com
 
+GitHub: github.com/drobb9219
+
+Thanks for visiting! I’m open to internships, apprenticeships, and entry-level opportunities in IT Risk, Compliance, Cybersecurity, and GRC.
