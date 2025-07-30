@@ -35,7 +35,7 @@ My goal is to leverage hands-on experience in **risk mitigation, internal contro
 
 - **IT Fundamentals & Tech+ Capstone Projects**  
   Virtual PC builds, OSI model simulation, network troubleshooting, and IT support foundations.  
-  [View Repository →](https://github.com/drobb9219/TechPlus-Capstone-Projects)  
+  [View Repository →](https://github.com/drobb9219/dcc-techplus-capstone-projects)  
 
 ---
 
